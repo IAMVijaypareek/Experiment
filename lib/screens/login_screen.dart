@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:letstalkmoney/services/auth_service.dart';
+import 'package:letsvijay/services/auth_service.dart';
 
 class LoginPage extends StatefulWidget {
   @override
