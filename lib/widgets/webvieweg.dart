@@ -23,7 +23,7 @@ class _WebViewExampleState extends State<WebViewExample> {
   @override
   Widget build(BuildContext context) {
     return WebView(
-      initialUrl: "https://www.financialnirvana.in/",
+      initialUrl: "https://www.designexamguide.co.in/",
       javascriptMode: JavascriptMode.unrestricted,
       onWebResourceError: (error) {
         print("error");
