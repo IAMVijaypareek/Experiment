@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:letstalkmoney/widgets/webvieweg.dart';
-import 'package:letstalkmoney/services/auth_service.dart';
+import 'package:letsvijay/widgets/webvieweg.dart';
+import 'package:letsvijay/services/auth_service.dart';
 import 'package:shimmer/shimmer.dart';
 
 
@@ -27,7 +27,7 @@ class _MyHomePageState extends State<MyHomePage> {
           baseColor: Colors.white,
           highlightColor: Colors.yellow,
                   child: Text(
-            "Let's Talk Money",
+            "Let's Vijay",
             style: TextStyle(
                 color: Colors.white, fontSize: 20.0, fontWeight: FontWeight.bold),
           ),
