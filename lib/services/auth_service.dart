@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:letstalkmoney/screens/home_screen.dart';
+import 'package:letstalkvijay/screens/home_screen.dart';
 
 import 'package:flutter/material.dart';
-import 'package:letstalkmoney/screens/login_screen.dart';
+import 'package:letsvijay/screens/login_screen.dart';
 
 class AuthService {
   //Handles Auth
